@@ -25,7 +25,6 @@ filelock==3.13.1
 folium==0.15.1
 fonttools==4.48.1
 future==0.18.3
-GDAL==3.6.2
 gdown==5.1.0
 geedim==1.7.2
 geemap==0.30.4
